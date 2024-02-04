@@ -1,0 +1,16 @@
+.overr{
+  background-color: #1abc9ce6;
+  opacity: 0;
+  cursor: pointer;
+  transition: .6s opacity;
+}
+
+.overr:hover{
+  opacity: 1;
+
+}
+
+
+.divider{
+  background-color: #2c3e50;
+}
